@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "LogApp": {
+      "applicationId": "TqDmkkvQoInHguAfL0ufEpqcWEiBXF3ji9Xmstod"
+    },
+    "_default": {
+      "link": "LogApp"
+    }
+  }
+}
